@@ -1,6 +1,5 @@
 # Create-a-Terraform-project-which-Implements-a-VPC-on-AWS-and-deploys-to-EKS-cluster.
 In this Terraform project we will learn how to provisions a Virtual Private Cloud (VPC) on AWS, deploys an Amazon Elastic Kubernetes Service (EKS) cluster within that VPC, and provides associated networking and IAM resources. In this I'll create a well-organized Terraform configuration for an AWS VPC and EKS cluster, split into logical modules.
-![Uploading image.png…]()
 
 ![DALL·E 2024-12-30 21 19 52 - A detailed and vibrant illustration of a Terraform project setup for implementing a Virtual Private Cloud (VPC) on AWS and deploying an Elastic Kubern](https://github.com/user-attachments/assets/229c8483-fcad-47f1-a9d2-aba0e5ec95ee)
 
